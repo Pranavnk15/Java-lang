@@ -170,5 +170,24 @@ public class strings {
     String str = "aaabbcccdd";
     System.out.println(compress(str));
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
    
 }

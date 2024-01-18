@@ -66,10 +66,10 @@ public class OOPS {
             // Queen q = new Queen();
             // q.moves();
                 
-            Student s1 = new Student();
-            s1.schoolName = "JMV";
-            Student s2 = new Student();
-            System.out.println(s2.schoolName);
+            // Student s1 = new Student();
+            // s1.schoolName = "JMV";
+            // Student s2 = new Student();
+            // System.out.println(s2.schoolName);
             
 
 
@@ -222,14 +222,14 @@ class Fish extends Animal {
 //     }
 // }
 
-// // class BankAc {
-// //     public String userName; //defined with public-accessible to all
-// //     private String password;//defined with private-only accessible
-// //     //within the class and not outside the class.
-// //     public void setPassword(String pwd) {
-// //         password = pwd;
-// //     }
-// // } 
+class BankAc {
+    public String userName; //defined with public-accessible to all
+    private String password;//defined with private-only accessible
+    //within the class and not outside the class.
+    public void setPassword(String pwd) {
+        password = pwd;
+    }
+} 
 
 public class Pen {
     //properties + functions of class are defined here
